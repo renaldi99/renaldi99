@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @renaldi99
 - 👀 I’m interested in UI Design and Web Development, i also learn to build Mobile App. I like learn new thing to improve 
       my experience and my skill.
-- 🌱 I’m currently learning React, Laravel and UI/UX Design
+- 🌱 I’m currently learning Javascript, Java, React, Springboot and UI/UX Design
 - 💞️ I’m looking to collaborate with other creative people and be a part of something bigger 
 - 📫 How to reach me itcode.ren@gmail.com
 
