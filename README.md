@@ -6,7 +6,7 @@
 - 📫 How to reach me itcode.ren@gmail.com
 
 **Tech Stack**
-https://img.shields.io/badge/dotnet-purple?logo=dotnet
+![Static Badge](https://img.shields.io/badge/dotnet-purple?logo=dotnet)
 
 <!---
 renaldi99/renaldi99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
