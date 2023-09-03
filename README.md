@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate with other creative people and be a part of something bigger 
 - 📫 How to reach me itcode.ren@gmail.com
 
-**Tech Stack**
+## Tech Stack
 ![Static Badge](https://img.shields.io/badge/dotnet-purple?logo=dotnet)
 
 <!---
