@@ -6,7 +6,7 @@
 - 📫 How to reach me itcode.ren@gmail.com
 
 ## Tech Stack
-![Static Badge](https://img.shields.io/badge/DOTNET-purple?logo=dotnet) ![Static Badge](https://img.shields.io/badge/HTML-orange?logo=html5)
+![Static Badge](https://img.shields.io/badge/Dotnet-purple?logo=dotnet) ![Static Badge](https://img.shields.io/badge/Html-orange?logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/Springboot-green?logo=springboot&logoColor=white) ![Static Badge](https://img.shields.io/badge/React-blue?logo=react&logoColor=white) ![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-red?logo=microsoftsqlserver&logoColor=white) ![Static Badge](https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white) ![Static Badge](https://img.shields.io/badge/Csharp-oldgreen?logo=csharp&logoColor=white)
 
 
 <!---
